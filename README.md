@@ -4,5 +4,4 @@
 
 <p>
   <a href="https://github.com/Masortim?tab=repositories"><strong>Explore selected repositories&nbsp; →</strong></a>
-  · <a href="https://masortim.github.io/">Open interactive banner</a>
 </p>
